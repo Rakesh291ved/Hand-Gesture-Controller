@@ -26,8 +26,11 @@ Built with OpenCV, MediaPipe, and PyAutoGUI, this system offers a hands-free way
 
 🧠 Modes & Gestures
 Gesture	Mode Activated	Action
+
 ✊ All fingers down	Scroll Mode	Scrolls up/down based on finger spread
+
 👉 Thumb + Index finger up	Volume Mode	Adjusts volume based on pinch distance
+
 ☝️ Only Index finger up	Cursor Mode	Moves cursor to match index finger
 
 🛠️ Requirements
