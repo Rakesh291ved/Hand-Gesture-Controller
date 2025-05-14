@@ -40,19 +40,24 @@ bash
 Copy
 Edit
 pip install opencv-python mediapipe pyautogui numpy
+
 📁 Project Structure
 bash
 Copy
 Edit
 .
 ├── HandGestureController.py        # Main script
+
 ├── HandTrackingModule.py           # Hand detection class using MediaPipe
+
 └── README.md                       # You're here!
+
 ▶️ How to Run
 bash
 Copy
 Edit
 python HandGestureController.py
+
 Press q to exit the application.
 
 🧠 How It Works
@@ -69,6 +74,7 @@ Move cursor
 Scroll window
 
 Change volume
+
 
 🧪 Example Use Cases
 Control slides in a presentation
